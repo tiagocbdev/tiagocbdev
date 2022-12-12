@@ -5,9 +5,9 @@
 
 <!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) ACRESCENTAR SITE DE PORTFÓLIO QUANDO ESTIVER PRONTO -->
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, React Native, Node.JS**
 
-- ⚡ Fun fact **Living in Portugal with my wife 💍**
+- ⚡ Fun fact **Born in Brazil, Living in Portugal with my wife 💍**
 
 <br><br>
 
