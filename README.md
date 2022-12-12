@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, React Native, Node.JS**
 
-- ⚡ Fun fact **Born in Brazil, Living in Portugal with my wife 💍**
+- ⚡ Fun fact: **Born in Brazil, Living in Portugal with my wife 💍**
 
 <br><br>
 
